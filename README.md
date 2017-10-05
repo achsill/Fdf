@@ -1,6 +1,7 @@
 # Fdf - 42 Project.
 
 **Introduction:**
+
  représentation en relief d’un terrain est une pratique clef de la cartographie moderne.
  Par exemple, en cette ère d’exploration spatiale, avoir une reproduction en trois
  dimensions de la surface de Mars est un prérequis indispensable à la conquête de cette
@@ -21,7 +22,7 @@
  souris et l’“expose”. Ce sera pour vous l’occasion de vous initier à la programmation dite
  “evenementielle”.
 
- **Exemple:**
+ **Exemples:**
 
 ![alt text](fdf_exemple_1.png)
 
